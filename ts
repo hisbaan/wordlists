@@ -1382,7 +1382,7 @@ byongweni
 byoxe
 byu
 byuro
-bézier
+bÃ©zier
 c
 c4
 c5
