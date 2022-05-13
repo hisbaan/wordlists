@@ -6735,3 +6735,13 @@ www.sapo.co.za - get downloadable postal codes for names of towns and suburbs
 ```
 
 </details>
+
+<details>
+<summary>se</summary>
+
+```
+Giellatekno - Saami Language Technology, UiT The Arctic University of Norway, 2015,
+  North Saami-Finnish dictionary, Common Language Resources and Technology Infrastructure Norway (CLARINO) Bergen Repository,
+  http://hdl.handle.net/11509/97.
+```
+</details>
