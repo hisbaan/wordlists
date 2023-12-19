@@ -6565,3 +6565,9 @@ Giellatekno - Saami Language Technology, UiT The Arctic University of Norway, 20
   http://hdl.handle.net/11509/97.
 ```
 </details>
+
+Resources - Tamil
+-----------------
+Tamil wordlist used from Tamil VU as distributed with Open-Tamil project (MIT License).
+URL: https://github.com/ezhil-Language-Foundation/open-tamil
+
